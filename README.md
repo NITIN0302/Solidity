@@ -1,1 +1,1 @@
-# Solidity
+This repository is related with creation of smart contracts by using solidity.A smart contract is a script usually written in Solidity and compiled into binary or JSON and deployed to a specific address on the blockchain.
